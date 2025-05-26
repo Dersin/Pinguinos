@@ -5710,3 +5710,423 @@ Make sure 'PC_ControllerBase_C' has been compiled for  Get Arrow1
 [2025.05.26-04.01.20:033][406]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
 [2025.05.26-04.01.23:732][618]LogContentBrowser: Attempting asset rename: NewFolder -> PowerUps
 [2025.05.26-04.01.23:732][618]LogContentBrowser: End creating deferred item NewFolder
+[2025.05.26-04.02.38:207][236]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.05.26-04.02.38:224][236]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.05.26-04.02.38:235][236]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.05.26-04.02.38:263][238]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.05.26-04.02.44:026][562]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_PowerUpBase
+[2025.05.26-04.02.44:035][562]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.05.26-04.02.44:386][582]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.02.44:476][582]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.02.44:477][582]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase9C3C9A4B4DB680C8DA7E9EA04E5F49D0.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.02.44:496][582]LogFileHelpers: InternalPromptForCheckoutAndSave took 108 ms (total: 8.57 sec)
+[2025.05.26-04.02.44:499][582]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.02.44:499][582]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.02.45:785][655]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.02.45:785][655]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-04.02.45:787][655]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-04.02.45:962][655]LogViewport: Scene viewport resized to 1126x685, mode Windowed.
+[2025.05.26-04.02.54:713][157]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.02.54:751][157]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.02.54:751][157]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBaseD06E97324183EB4121099EA30C14DEF2.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.02.54:761][157]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 8.62 sec)
+[2025.05.26-04.02.54:763][157]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.02.54:763][157]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.02.57:370][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.02.57:405][307]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.02.57:405][307]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase5909EE2940433714A7AF3BBC9DD31414.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.02.57:416][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 8.66 sec)
+[2025.05.26-04.02.57:419][307]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.02.57:419][307]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.03.06:895][864]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.03.06:946][864]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.03.06:946][864]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase91EBC4424292197F9054ECA5689B9A99.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.03.06:959][864]LogFileHelpers: InternalPromptForCheckoutAndSave took 62 ms (total: 8.73 sec)
+[2025.05.26-04.03.06:961][864]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.03.06:961][864]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.03.07:610][902]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.03.07:641][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.05.26-04.03.08:554][951]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.03.08:595][951]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.03.08:595][951]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase1C843E4047A7E9EF2E3ABBBD16BDBE25.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.03.08:606][951]LogFileHelpers: InternalPromptForCheckoutAndSave took 52 ms (total: 8.78 sec)
+[2025.05.26-04.03.08:608][951]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.03.08:608][951]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.04.46:180][806]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5078.684082
+[2025.05.26-04.04.46:385][818]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.04.46:385][818]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5078.870605, Update Interval: 332.705475
+[2025.05.26-04.05.03:379][837]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.05.03:418][837]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.05.03:418][837]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase4F8393754026D638C5702394BFE45E79.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.05.03:428][837]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 8.83 sec)
+[2025.05.26-04.05.03:428][837]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.05.03:428][837]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.05.03:536][844]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.05.03:573][844]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.05.03:574][844]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase034C4AC64D52482D0156C3B7F4294E24.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.05.03:588][844]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 8.88 sec)
+[2025.05.26-04.05.03:590][844]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.05.03:590][844]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.10.02:559][556]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2025.05.26-04.10.02:562][556]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.018
+[2025.05.26-04.10.02:563][556]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Core/PC_ControllerBase] ([2] browsable assets)...
+[2025.05.26-04.10.02:563][556]OBJ SavePackage: Finished generating thumbnails for package [/Game/Core/PC_ControllerBase]
+[2025.05.26-04.10.02:565][556]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Core/PC_ControllerBase_Auto5
+[2025.05.26-04.10.02:565][556]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/PC_ControllerBase_Auto5C4378A3E45D8BEFE93906F8D8800C562.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/Autosaves/Game/Core/PC_ControllerBase_Auto5.uasset'
+[2025.05.26-04.10.02:566][556]LogFileHelpers: Auto-saving content packages took 0.003
+[2025.05.26-04.10.59:854][729]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5452.350586
+[2025.05.26-04.11.00:855][732]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.11.00:855][732]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5453.018555, Update Interval: 304.321411
+[2025.05.26-04.14.57:110][677]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.14.57:149][677]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.14.57:149][677]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase0A7A9EDA4073BF0F19D61AAECC58459E.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.14.57:160][677]LogFileHelpers: InternalPromptForCheckoutAndSave took 49 ms (total: 8.93 sec)
+[2025.05.26-04.14.57:163][677]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.14.57:163][677]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.14.59:684][814]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.14.59:723][814]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.14.59:725][814]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase61A782D94B86FBAF0A746996CEE08C84.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.14.59:735][814]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 8.98 sec)
+[2025.05.26-04.14.59:737][814]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.14.59:737][814]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.15.11:801][514]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-04.15.21:482][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.15.21:579][ 65]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.15.21:579][ 65]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase71FA38024494BCA091CCF2BD182DBE51.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.15.21:592][ 65]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 9.09 sec)
+[2025.05.26-04.15.21:595][ 65]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.15.21:595][ 65]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.15.21:986][ 88]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.15.22:019][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2025.05.26-04.15.24:580][208]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase_C
+[2025.05.26-04.15.24:581][208]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase_C
+[2025.05.26-04.15.24:584][208]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase as actor: BP_PowerUpBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PowerUpBase_C_0
+[2025.05.26-04.15.24:587][208]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase as actor: BP_PowerUpBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PowerUpBase_C_0
+[2025.05.26-04.15.24:595][208]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2025.05.26-04.15.25:036][226]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase_C
+[2025.05.26-04.15.25:036][226]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase_C
+[2025.05.26-04.15.25:044][226]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase as actor: BP_PowerUpBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PowerUpBase_C_UAID_04BF1B496FB5DB6B02_1824921031
+[2025.05.26-04.15.25:046][226]LogActorFactory: Actor Factory spawned Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase as actor: BP_PowerUpBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PowerUpBase_C_UAID_04BF1B496FB5DB6B02_1824921031
+[2025.05.26-04.15.26:937][326]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-04.15.26:942][326]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.26-04.15.26:942][326]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.26-04.15.26:945][326]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 3 ms (total: 99 ms)
+[2025.05.26-04.15.26:954][326]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-04.15.26:954][326]PIE: New page: PIE session: ThirdPersonMap (25 de mai de 2025 22:15:26)
+[2025.05.26-04.15.26:991][326]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.26-04.15.26:995][326]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003451s)
+[2025.05.26-04.15.26:995][326]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003497s)
+[2025.05.26-04.15.27:012][326]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2025.05.26-04.15.27:015][326]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-04.15.27:015][326]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-04.15.27:016][326]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.05.26-04.15.27:016][326]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.26-04.15.27:016][326]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.26-04.15.27:016][326]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.26-04.15.27:016][326]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.26-04.15.27:017][326]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.05.26-04.15.27:017][326]LogWorldPartition: Display: WorldPartition initialize took 873 us (total: 186 ms)
+[2025.05.26-04.15.27:017][326]LogPlayLevel: PIE: World Init took: (0.001942s)
+[2025.05.26-04.15.27:017][326]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2025.05.26-04.15.27:017][326]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-04.15.27:017][326]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-04.15.27:017][326]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-04.15.27:017][326]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-04.15.27:017][326]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-04.15.27:017][326]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-04.15.27:017][326]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-04.15.27:017][326]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-04.15.27:018][326]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-04.15.27:018][326]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-04.15.27:018][326]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-04.15.27:020][326]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-04.15.27:038][326]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Logitech PRO X Wireless Gaming Headset)
+[2025.05.26-04.15.27:039][326]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-04.15.27:039][326]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-04.15.27:039][326]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-04.15.27:040][326]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2025.05.26-04.15.27:040][326]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=58
+[2025.05.26-04.15.27:041][326]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2025.05.26-04.15.27:041][326]LogInit: FAudioDevice initialized with ID 58.
+[2025.05.26-04.15.27:041][326]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2025.05.26-04.15.27:041][326]LogAudio: Display: Audio Device (ID: 58) registered with world 'ThirdPersonMap'.
+[2025.05.26-04.15.27:041][326]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 58
+[2025.05.26-04.15.27:043][326]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-04.15.27:045][326]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.26-01.15.27
+[2025.05.26-04.15.27:045][326]LogWorld: Bringing up level for play took: 0.001366
+[2025.05.26-04.15.27:047][326]LogOnline: OSS: Created online subsystem instance for: :Context_68
+[2025.05.26-04.15.27:056][326]PIE: Server logged in
+[2025.05.26-04.15.27:057][326]PIE: Play in editor total start time 0,114 seconds.
+[2025.05.26-04.15.33:223][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-04.15.33:223][508]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.26-04.15.33:223][508]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-04.15.33:223][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-04.15.33:223][508]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.26-04.15.33:236][508]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-04.15.33:245][508]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-04.15.33:261][508]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-04.15.33:261][508]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 58
+[2025.05.26-04.15.33:261][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.05.26-04.15.33:264][508]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2025.05.26-04.15.33:268][508]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-04.15.33:272][508]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2025.05.26-04.15.33:334][509]LogPlayLevel: Display: Destroying online subsystem :Context_68
+[2025.05.26-04.15.49:679][452]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.15.49:781][452]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.15.49:782][452]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase1C4D8B1545EDBB2E055107B79D453FA2.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.15.49:793][452]LogFileHelpers: InternalPromptForCheckoutAndSave took 114 ms (total: 9.20 sec)
+[2025.05.26-04.15.49:796][452]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.15.49:796][452]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.15.50:359][485]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.15.50:395][485]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2025.05.26-04.15.52:242][575]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.05.26-04.15.52:246][575]LogContentBundle: [ThirdPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2025.05.26-04.15.52:247][575]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' started...
+[2025.05.26-04.15.52:248][575]LogWorldPartition: Display: GenerateStreaming for 'ThirdPersonMap' took 1 ms (total: 101 ms)
+[2025.05.26-04.15.52:248][575]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.05.26-04.15.52:248][575]PIE: New page: PIE session: ThirdPersonMap (25 de mai de 2025 22:15:52)
+[2025.05.26-04.15.52:248][575]LogPlayLevel: Creating play world package: /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.26-04.15.52:253][575]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003839s)
+[2025.05.26-04.15.52:253][575]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap to /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap (0.003880s)
+[2025.05.26-04.15.52:265][575]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.05.26-04.15.52:267][575]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2025.05.26-04.15.52:267][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2025.05.26-04.15.52:269][575]LogAIModule: Creating AISystem for world ThirdPersonMap
+[2025.05.26-04.15.52:269][575]LogWorldPartition: ULevel::OnLevelLoaded(ThirdPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.05.26-04.15.52:269][575]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.05.26-04.15.52:269][575]LogWorldPartition: UWorldPartition::Initialize : World = ThirdPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.05.26-04.15.52:269][575]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.05.26-04.15.52:270][575]LogContentBundle: [ThirdPersonMap(Standalone)] Creating new contrainer.
+[2025.05.26-04.15.52:270][575]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 187 ms)
+[2025.05.26-04.15.52:270][575]LogPlayLevel: PIE: World Init took: (0.002389s)
+[2025.05.26-04.15.52:270][575]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2025.05.26-04.15.52:270][575]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.05.26-04.15.52:270][575]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.05.26-04.15.52:270][575]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.05.26-04.15.52:270][575]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.05.26-04.15.52:270][575]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.05.26-04.15.52:270][575]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.05.26-04.15.52:270][575]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.05.26-04.15.52:270][575]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.05.26-04.15.52:271][575]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.05.26-04.15.52:271][575]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.05.26-04.15.52:271][575]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.05.26-04.15.52:273][575]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.05.26-04.15.52:295][575]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Logitech PRO X Wireless Gaming Headset)
+[2025.05.26-04.15.52:295][575]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.05.26-04.15.52:295][575]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.05.26-04.15.52:295][575]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.05.26-04.15.52:296][575]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2025.05.26-04.15.52:296][575]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=59
+[2025.05.26-04.15.52:297][575]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2025.05.26-04.15.52:297][575]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2025.05.26-04.15.52:297][575]LogInit: FAudioDevice initialized with ID 59.
+[2025.05.26-04.15.52:297][575]LogAudio: Display: Audio Device (ID: 59) registered with world 'ThirdPersonMap'.
+[2025.05.26-04.15.52:297][575]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 59
+[2025.05.26-04.15.52:301][575]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.05.26-04.15.52:302][575]LogWorld: Bringing World /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap.ThirdPersonMap up for play (max tick rate 60) at 2025.05.26-01.15.52
+[2025.05.26-04.15.52:302][575]LogWorld: Bringing up level for play took: 0.001530
+[2025.05.26-04.15.52:305][575]LogOnline: OSS: Created online subsystem instance for: :Context_69
+[2025.05.26-04.15.52:314][575]PIE: Server logged in
+[2025.05.26-04.15.52:314][575]PIE: Play in editor total start time 0,068 seconds.
+[2025.05.26-04.15.55:452][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-04.15.55:452][680]LogWorld: BeginTearingDown for /Game/ThirdPerson/Maps/UEDPIE_0_ThirdPersonMap
+[2025.05.26-04.15.55:452][680]LogWorld: UWorld::CleanupWorld for ThirdPersonMap, bSessionEnded=true, bCleanupResources=true
+[2025.05.26-04.15.55:453][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-04.15.55:453][680]LogContentBundle: [ThirdPersonMap(Standalone)] Deleting container.
+[2025.05.26-04.15.55:463][680]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.05.26-04.15.55:467][680]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.05.26-04.15.55:485][680]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.05.26-04.15.55:485][680]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 59
+[2025.05.26-04.15.55:485][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.05.26-04.15.55:487][680]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2025.05.26-04.15.55:494][680]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.05.26-04.15.55:498][680]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.05.26-04.15.55:557][681]LogPlayLevel: Display: Destroying online subsystem :Context_69
+[2025.05.26-04.16.48:317][910]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5800.832031
+[2025.05.26-04.16.49:320][913]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.16.49:320][913]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5801.501465, Update Interval: 305.806458
+[2025.05.26-04.17.34:562][283]LogSlate: Took 0.007431 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2025.05.26-04.17.39:278][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.17.39:423][548]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.05.26-04.17.39:423][548]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_ThirdPersonCharacter2AC1836A448AE41B258C42B445BDC7B3.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.05.26-04.17.39:435][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 156 ms (total: 9.36 sec)
+[2025.05.26-04.17.39:437][548]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.05.26-04.17.39:437][548]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.05.26-04.17.43:094][766]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2025.05.26-04.17.43:815][766]LogSlate: Window 'Save Content' being destroyed
+[2025.05.26-04.17.43:834][766]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.17.43:882][766]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7C/KNHWH94BHRDZD2MLEZXQFS
+[2025.05.26-04.17.43:882][766]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/KNHWH94BHRDZD2MLEZXQFSC9D992C543B724CD12530892FC2A45D6.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7C/KNHWH94BHRDZD2MLEZXQFS.uasset'
+[2025.05.26-04.17.43:886][766]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Core/PC_ControllerBase" FILE="../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Core/PC_ControllerBase.uasset" SILENT=true
+[2025.05.26-04.17.43:888][766]LogSavePackage: Moving output files for package: /Game/Core/PC_ControllerBase
+[2025.05.26-04.17.43:888][766]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/PC_ControllerBase5EEAD3B0430F7B7BD522E5B0A71A49A1.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Core/PC_ControllerBase.uasset'
+[2025.05.26-04.17.43:904][766]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 9.43 sec)
+[2025.05.26-04.17.43:911][766]AssetCheck: New page: Asset Save: multiple assets
+[2025.05.26-04.17.43:911][766]LogContentValidation: Display: Validating /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase_C /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.BP_PowerUpBase_C_UAID_04BF1B496FB5DB6B02_1824921031
+[2025.05.26-04.17.43:911][766]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Core/PC_ControllerBase.PC_ControllerBase
+[2025.05.26-04.18.58:743][252]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.05.26-04.18.58:804][252]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2025.05.26-04.18.59:336][270]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.18.59:478][270]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.05.26-04.18.59:478][270]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_ThirdPersonCharacterC52F18C54E0F610B4DE29BB395FD19E7.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.05.26-04.18.59:493][270]LogFileHelpers: InternalPromptForCheckoutAndSave took 155 ms (total: 9.59 sec)
+[2025.05.26-04.18.59:495][270]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.05.26-04.18.59:495][270]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.05.26-04.19.39:101][553]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.19.39:236][553]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.05.26-04.19.39:236][553]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_ThirdPersonCharacterA43E4C67498A021CD7472B9CF793FDCF.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.05.26-04.19.39:247][553]LogFileHelpers: InternalPromptForCheckoutAndSave took 145 ms (total: 9.73 sec)
+[2025.05.26-04.19.39:250][553]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.05.26-04.19.39:250][553]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.05.26-04.22.40:283][388]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6152.833984
+[2025.05.26-04.22.40:466][399]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.22.40:466][399]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6152.999512, Update Interval: 347.828613
+[2025.05.26-04.22.46:462][730]BlueprintLog: New page: Compile BP_ThirdPersonCharacter
+[2025.05.26-04.22.46:530][730]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.05.26-04.22.47:029][748]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.22.47:156][748]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.05.26-04.22.47:157][748]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_ThirdPersonCharacterD3509BDC47E39767C31A49AEEA2239F0.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.05.26-04.22.47:167][748]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 9.87 sec)
+[2025.05.26-04.22.47:169][748]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2025.05.26-04.22.47:169][748]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2025.05.26-04.28.42:306][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.28.42:394][ 94]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.28.42:394][ 94]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBaseA4B9115B4E3E07C1E26D729F52B69F23.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.28.42:403][ 94]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 9.97 sec)
+[2025.05.26-04.28.42:404][ 94]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.28.42:404][ 94]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.28.54:759][752]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.28.54:859][752]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.28.54:859][752]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBaseA354492B409C3484D3A29C9F2F68ED5E.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.28.54:869][752]LogFileHelpers: InternalPromptForCheckoutAndSave took 109 ms (total: 10.0 sec)
+[2025.05.26-04.28.54:871][752]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.28.54:871][752]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.29.25:048][564]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6557.596680
+[2025.05.26-04.29.25:264][577]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.29.25:264][577]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6557.795410, Update Interval: 301.596741
+[2025.05.26-04.29.39:830][450]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.29.39:877][450]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.29.39:877][450]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase76B67D6E44CBD9130B41E2867574B223.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.29.39:887][450]LogFileHelpers: InternalPromptForCheckoutAndSave took 56 ms (total: 10.1 sec)
+[2025.05.26-04.29.39:889][450]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.29.39:889][450]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.29.40:891][509]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.29.40:937][509]LogUObjectHash: Compacting FUObjectHashTables data took   1.50ms
+[2025.05.26-04.29.41:727][548]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.29.41:818][548]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.29.41:818][548]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase82CD6CD8479487A228DEB0B5AF860452.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.29.41:828][548]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 10.2 sec)
+[2025.05.26-04.29.41:829][548]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.29.41:829][548]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.31.33:251][349]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.31.33:284][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.05.26-04.31.33:788][374]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.31.33:936][374]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.31.33:936][374]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase6F6BB6794D70C98D4DC3D78ED0637D18.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.31.33:947][374]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 10.3 sec)
+[2025.05.26-04.31.33:948][374]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.31.33:948][374]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.32.11:019][542]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.32.11:147][542]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.32.11:147][542]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase2FF0E5C34B6D0097F8F63BAD174DC4F7.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.32.11:157][542]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 10.5 sec)
+[2025.05.26-04.32.11:159][542]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.32.11:159][542]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.32.12:140][601]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.32.12:185][601]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.32.12:185][601]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBaseEF1F169E49E6FFC7927992B994602A00.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.32.12:195][601]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 10.5 sec)
+[2025.05.26-04.32.12:197][601]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.32.12:197][601]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.32.16:230][821]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.32.16:349][821]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.32.16:349][821]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBaseD71113264521103873FA108919EBFE3D.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.32.16:365][821]LogFileHelpers: InternalPromptForCheckoutAndSave took 135 ms (total: 10.7 sec)
+[2025.05.26-04.32.16:368][821]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.32.16:368][821]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.32.43:272][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2025.05.26-04.32.43:275][425]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Maps/ThirdPersonMap' took 0.019
+[2025.05.26-04.32.43:276][425]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/PowerUps/BP_PowerUpBase] ([2] browsable assets)...
+[2025.05.26-04.32.43:276][425]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/PowerUps/BP_PowerUpBase]
+[2025.05.26-04.32.43:282][425]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/PowerUps/BP_PowerUpBase_Auto6
+[2025.05.26-04.32.43:282][425]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase_Auto6B500BC8042D7A6BF04091891A7B1A19D.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/Autosaves/Game/Blueprints/PowerUps/BP_PowerUpBase_Auto6.uasset'
+[2025.05.26-04.32.43:282][425]LogFileHelpers: Auto-saving content packages took 0.007
+[2025.05.26-04.33.39:691][809]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.33.39:727][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.05.26-04.33.39:858][810]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.33.39:900][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2025.05.26-04.33.40:374][833]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.33.40:502][833]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.33.40:503][833]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase10DF50604051D81278A49487379A36C5.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.33.40:514][833]LogFileHelpers: InternalPromptForCheckoutAndSave took 139 ms (total: 10.8 sec)
+[2025.05.26-04.33.40:515][833]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.33.40:515][833]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.33.59:933][998]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.34.06:927][998]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.34.06:928][998]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase5DF6206647A3F8F9BA6A4C80EEC271E0.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.34.06:938][998]LogFileHelpers: InternalPromptForCheckoutAndSave took 7.00 sec (total: 17.8 sec)
+[2025.05.26-04.34.06:940][998]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.34.06:940][998]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.34.06:946][999]LogAutomationController: Ignoring very large delta of 7.02 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.05.26-04.34.59:878][211]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6892.454590
+[2025.05.26-04.35.00:878][214]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.05.26-04.35.00:878][214]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6893.121094, Update Interval: 309.985046
+[2025.05.26-04.35.37:646][462]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.35.37:691][462]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2025.05.26-04.35.38:745][481]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.35.38:872][481]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.35.38:872][481]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase9AEE734B4349F6245F25A38FF72BBE2D.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.35.38:878][481]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 18.0 sec)
+[2025.05.26-04.35.38:879][481]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.35.38:879][481]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.37.53:849][484]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.37.53:964][484]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.37.53:965][484]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase5A1DD6FC4CE2FDB9817DFF9F7AD499A0.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.37.53:979][484]LogFileHelpers: InternalPromptForCheckoutAndSave took 129 ms (total: 18.1 sec)
+[2025.05.26-04.37.53:982][484]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.37.53:982][484]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.37.54:589][521]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.37.54:626][521]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2025.05.26-04.38.01:732][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.38.01:853][935]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.38.01:854][935]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBaseDCD683ED4148DBB118880DB64B90B6B3.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.38.01:865][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 133 ms (total: 18.2 sec)
+[2025.05.26-04.38.01:867][935]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.38.01:867][935]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.38.02:548][975]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.38.02:587][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.02ms
+[2025.05.26-04.38.03:129][  2]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.38.03:253][  2]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.38.03:253][  2]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase73A6A9584689288C65C4AB9121A585CD.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.38.03:264][  2]LogFileHelpers: InternalPromptForCheckoutAndSave took 134 ms (total: 18.4 sec)
+[2025.05.26-04.38.03:266][  2]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.38.03:266][  2]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.38.07:867][279]LogDerivedDataCache: C:/Users/Ander/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.091 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 1012 files in 1671 folders with total size 65 MiB.
+[2025.05.26-04.38.35:563][751]LogEOSSDK: LogEOSAuth: Refreshing authentication session. AccessTokenExpired: No RefreshRequired: Yes VerifyRequired: No UserId: ec0...e5b
+[2025.05.26-04.38.35:563][751]LogEOSSDK: LogEOSAuth: Refresh authentication session. AuthState: 1 AccessExpires: 99.99 RefreshExpires: 1.554e+07
+[2025.05.26-04.38.35:799][765]LogEOSSDK: LogEOSAuth: UpdateUserAuthToken: User ClientId: xyz...459 AccountId: ec0...e5b Access[Expires: 2025.05.26-06.38.35 Remaining: 7200.89] Refresh[Expires: 2025-11-22T02:11:39.506Z Remaining: 15543184.51] State: Valid
+[2025.05.26-04.39.50:828][681]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.39.50:942][681]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.39.50:943][681]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBase9236B4CC427426AE2EF54BAF4F0AD985.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.39.50:953][681]LogFileHelpers: InternalPromptForCheckoutAndSave took 125 ms (total: 18.5 sec)
+[2025.05.26-04.39.50:955][681]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.39.50:955][681]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.39.51:328][704]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.39.51:364][704]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2025.05.26-04.39.51:503][707]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.39.51:539][707]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2025.05.26-04.39.52:100][735]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.39.52:228][735]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.39.52:230][735]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBaseD5A25D134A8300C185C7E5AE84A3CDA9.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.39.52:259][735]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 18.6 sec)
+[2025.05.26-04.39.52:265][735]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.39.52:265][735]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
+[2025.05.26-04.40.48:162][ 89]BlueprintLog: New page: Compile BP_PowerUpBase
+[2025.05.26-04.40.48:200][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2025.05.26-04.40.48:610][108]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.05.26-04.40.48:703][108]LogSavePackage: Moving output files for package: /Game/Blueprints/PowerUps/BP_PowerUpBase
+[2025.05.26-04.40.48:703][108]LogSavePackage: Moving '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Saved/BP_PowerUpBaseD4FFB5FD461A21E0ABAA2C8A6BDAB9FD.tmp' to '../../../../../../Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset'
+[2025.05.26-04.40.48:715][108]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 18.7 sec)
+[2025.05.26-04.40.48:717][108]AssetCheck: New page: Asset Save: BP_PowerUpBase
+[2025.05.26-04.40.48:718][108]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/PowerUps/BP_PowerUpBase.BP_PowerUpBase
