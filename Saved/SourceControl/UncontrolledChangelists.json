@@ -10,9 +10,21 @@
 				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Input/Actions/IA_Dash.uasset",
 				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Core/PC_ControllerBase.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/VM/B570CCDQRR6V1NS3ZS8U4I.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_Freeze.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_Accelerate.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_Disco.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/2M/SIQNUO6KFLH6E7XQSNMUOJ.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/N2/S6K7L16G0AEJBA6NLBQQOM.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/BP_Disco.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/NewPhysicalMaterial.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Input/Actions/IA_Attack.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/ZS/D61NZQVIJV4EW2LKJ30ZXX.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Input/IMC_Keyboard.uasset",
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/ThirdPerson/Input/IMC_Gamepad.uasset",
 				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Blueprints/PowerUps/BP_PowerUpBase.uasset",
-				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7C/KNHWH94BHRDZD2MLEZXQFS.uasset",
-				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/Core/PC_ControllerBase.uasset"
+				"C:/Users/Ander/Documents/Unreal Projects/Pinguinos/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/7C/KNHWH94BHRDZD2MLEZXQFS.uasset"
 			]
 		}
 	]
